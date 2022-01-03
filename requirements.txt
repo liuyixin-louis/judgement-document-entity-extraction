@@ -1,0 +1,12 @@
+flask
+gunicorn 
+gevent
+transformers
+pandas
+numpy
+tqdm
+LAC
+transformers
+torch
+sklearn
+jieba
